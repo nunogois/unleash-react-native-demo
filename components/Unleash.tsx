@@ -1,4 +1,4 @@
-import { FlagProvider, UnleashClient } from 'unleash-react-native'
+import { FlagProvider } from 'unleash-react-native'
 import type { PropsWithChildren } from 'react'
 
 const config = {
@@ -9,8 +9,6 @@ const config = {
   appName: 'unleash-react-native-demo'
 }
 
-const client = new UnleashClient(config)
-
 export const Unleash = ({ children }: PropsWithChildren) => {
-  return <FlagProvider unleashClient={client}>{children}</FlagProvider>
+  return <FlagProvider config={config}>{children}</FlagProvider>
 }
