@@ -1,4 +1,4 @@
-import { useFlag } from 'unleash-react-native'
+import { useFlag } from '@nunogois/unleash-react-native'
 import { ThemedText } from './ThemedText'
 
 export const UnleashExample = () => {

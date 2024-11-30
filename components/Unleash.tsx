@@ -1,4 +1,4 @@
-import { FlagProvider } from 'unleash-react-native'
+import { FlagProvider } from '@nunogois/unleash-react-native'
 import type { PropsWithChildren } from 'react'
 
 const config = {
