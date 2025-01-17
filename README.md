@@ -2,6 +2,8 @@
 
 This is a demo for [unleash-react-native](https://github.com/nunogois/unleash-react-native).
 
+Remember to update `Unleash.tsx` with your Unleash instance URL and API key, as well as the flag name in `UnleashExample.tsx` to match the flag you want to test.
+
 ## Get started
 
 1. Install dependencies

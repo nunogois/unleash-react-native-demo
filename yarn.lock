@@ -1465,16 +1465,16 @@
   dependencies:
     semver "^7.3.5"
 
-"@nunogois/unleash-react-native@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@nunogois/unleash-react-native/-/unleash-react-native-0.1.0.tgz#51efc87f8c15dfa1b35e6e7152ac3bdf963df96b"
-  integrity sha512-uQfMVrxkLSPMVo4oFBTyqOnstkBSVGDCAvkIpHoHNC536c0t9lpgERnR9s6SHAfmdfsCTc5A6BFPfKXKYR8lqA==
+"@nunogois/unleash-react-native@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@nunogois/unleash-react-native/-/unleash-react-native-0.1.1.tgz#6a9ba78b118554bde4b8af7c96b6c3d8989daa84"
+  integrity sha512-mY7fJUrCfN+pg4QT9lWfLOkzO+vXR+RkAd7zItAfMEBwydjF3APu+voAjEBIYK/YLa1Ftm8Ow/P01fYxvQt83Q==
   dependencies:
     "@react-native-async-storage/async-storage" "^2.1.0"
     "@types/react" "^18.3.12"
-    "@unleash/proxy-client-react" "^4.4.0"
+    "@unleash/proxy-client-react" "^4.5.1"
     react-native-get-random-values "^1.11.0"
-    unleash-proxy-client "^3.6.1"
+    unleash-proxy-client "^3.7.2"
 
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
@@ -1964,10 +1964,10 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@unleash/proxy-client-react@^4.4.0":
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/@unleash/proxy-client-react/-/proxy-client-react-4.4.0.tgz#4f8d228d80d28539fa6a948d70ffca1586887126"
-  integrity sha512-btU/2Pho5eVOBdIYxNAeHq36lpm41/qmRVKuuLIGdg3XOZign9rA6KsarAk94W01XKulrNCrESINZMIvPoA6Cg==
+"@unleash/proxy-client-react@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@unleash/proxy-client-react/-/proxy-client-react-4.5.1.tgz#35d64afcea0b83c53354ef830818dd5dc23eee3d"
+  integrity sha512-vo9fcAbSM7SItBF0XuKqD/nderEfXCA5EC30ozm1HHWZr2tE4RxodsN26Nh1rGqgDkNVr2MssMX13p9G4P2aSw==
 
 "@urql/core@^5.0.0", "@urql/core@^5.0.6":
   version "5.0.8"
@@ -7122,10 +7122,10 @@ universalify@^2.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.1.tgz#168efc2180964e6386d061e094df61afe239b18d"
   integrity sha512-gptHNQghINnc/vTGIk0SOFGFNXw7JVrlRUtConJRlvaw6DuX0wO5Jeko9sWrMBhh+PsYAZ7oXAiOnf/UKogyiw==
 
-unleash-proxy-client@^3.6.1:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/unleash-proxy-client/-/unleash-proxy-client-3.6.1.tgz#ec709bd03010d190977f99a0900117f9e9ab6ea4"
-  integrity sha512-gbvkob/cBewLHMh9aAwWLDLN8D1efJ5FdUMva7wGBVykJMIqyYIlUsJpVNXnpq+feNBn6Qc1D1huXD2bk9bEmA==
+unleash-proxy-client@^3.7.2:
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/unleash-proxy-client/-/unleash-proxy-client-3.7.2.tgz#c6166bbaf293f8dea12cf65d061d72234c5b76a8"
+  integrity sha512-1SvHsl3kQh1DT9EKMQsN9alOvXZEz9hpxa3mG6QWtTmXJqa6VZi25dQ2U8Y2KAULKg6ARLMUQkod74Fe/pKp0g==
   dependencies:
     tiny-emitter "^2.1.0"
     uuid "^9.0.1"
